@@ -84,6 +84,11 @@ Next Steps Section
 Hyperparameter tuning (GridSearchCV).
 Deploy a Streamlit dashboard for interactive predictions.
 
+## 📓 Full Notebook
+For complete code, detailed EDA, and all plots, see the  
+[Jupyter Notebook](notebooks/water_quality1.ipynb).
+
+
 Author:
 
 Liya John
